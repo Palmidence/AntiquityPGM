@@ -1,3 +1,4 @@
+# AntiquityPGM
 ===========
 
 This is the next Avicus clone.
@@ -10,4 +11,3 @@ Before submitting a Pull Request, to increase the chances of the pull request be
 - Make sure the code works. Pull requests that do not work will hurt your chances of getting code merged in the future.
 - Do not use the GitHub editor to edit Java files. Use a proper IDE such as IntelliJ or Eclipse.
 
-# AntiquityPGM
